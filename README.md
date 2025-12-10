@@ -176,3 +176,7 @@ Compatibilidade
 •Multiplataforma (Windows, macOS, Linux)
 
 •Codificação UTF-8 para suportar acentos e emojis
+-------------------------------------------------------------------------
+Contribuidores: João Kayus
+
+
